@@ -1,0 +1,6 @@
+# Calidad-del-aire
+La calidad del aire es un tema de creciente preocupación en las grandes ciudades debido a sus efectos adversos sobre la salud humana y el medio ambiente. Entre los contaminantes atmosféricos más preocupantes se encuentra el ozono troposférico, un oxidante potente que se forma a partir de reacciones fotoquímicas entre óxidos de nitrógeno (NOx) y compuestos orgánicos volátiles (COVs) en presencia de luz solar. Este tipo de ozono es un componente clave del smog fotoquímico y tiene impactos significativos en la salud respiratoria y cardiovascular de la población urbana, además de afectar negativamente la vegetación y los materiales.
+
+En este contexto, la predicción precisa de las concentraciones de ozono es crucial para implementar medidas de mitigación y proteger la salud pública. Con el avance de la tecnología y el acceso a grandes volúmenes de datos atmosféricos y meteorológicos, el uso de herramientas de machine learning se ha convertido en una estrategia prometedora para mejorar la precisión de los modelos de predicción de la calidad del aire.
+
+La implementación de este modelo no solo contribuirá a una mejor comprensión de los factores que influyen en la formación del ozono troposférico, sino que también proporcionará una herramienta valiosa para la gestión y control de la calidad del aire en la Ciudad de México.
